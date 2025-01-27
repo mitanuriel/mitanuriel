@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elina Kamby</h1>
+<h1 align="center">Hi 👋, I'm Elina </h1>
 <h3 align="center">A passionate software developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanuriel&label=Profile%20views&color=b10eb4&style=plastic" alt="mitanuriel" /> </p>
