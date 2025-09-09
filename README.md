@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elina </h1>
-<h3 align="center">A junior software engineer from Denmark</h3>
+<h3 align="center">A junior frontend and UI developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanuriel&label=Profile%20views&color=b10eb4&style=plastic" alt="mitanuriel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitanuriel" alt="mitanuriel" /></a> </p>
 
-- 🌱 I’m currently learning **Python, React Native and DevOps**
-
-- 💬 Ask me about **JavaScript, Docker and Microsoft Azure**
+- 🌱 I’m currently learning ** React and React Native **
 
 - 📫 How to reach me **elina.kamby@outlook.com**
 
