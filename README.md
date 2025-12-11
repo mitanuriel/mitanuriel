@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elina </h1>
 <h3 align="center">A junior software developer from Denmark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanuriel&label=Profile%20views&color=b10eb4&style=plastic" alt="mitanuriel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitanuriel" alt="mitanuriel" /></a> </p>
-
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
