@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitanuriel" alt="mitanuriel" /></a> </p>
 
-- 🌱 I’m currently learning ** React and React Native **
-
-- 📫 How to reach me **elina.kamby@outlook.com**
-
 <p align="left">
 </p>
 
