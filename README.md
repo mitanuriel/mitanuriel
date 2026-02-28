@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elina </h1>
-<h3 align="center">A junior software developer from Denmark</h3>
-
+<h3 align="center">software developer from Denmark</h3>
+<h4 align="center">I build software for interesting people</h4>
 
 </p>
 
